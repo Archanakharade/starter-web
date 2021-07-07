@@ -6,6 +6,7 @@ then more changes from myfeature branch too.
 ## Introduction
 This is a example to show different parts of Git
 Repository and various commands using a web project.
+just for an exaple.
 
 ## Purpose
 
