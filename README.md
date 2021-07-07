@@ -11,3 +11,6 @@ Repository and various commands using a web project.
 ## Deployment
 
 ## How to contribute
+
+### Copyright
+2014 Git.Training
