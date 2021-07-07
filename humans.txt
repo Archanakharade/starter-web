@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Archana Kharade -- Consultant -- ak@gmail.com
 
 # THANKS
 
