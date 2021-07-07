@@ -11,6 +11,8 @@ Repository and various commands using a web project.
 ## Deployment
 
 ## How to contribute
+Please fork this repository and then issue Pull
+requests for review
 
 ### Copyright
 2014 Git.Training
